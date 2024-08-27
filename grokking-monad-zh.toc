@@ -1,0 +1,50 @@
+\contentsline {part}{I\hspace {1em}猫论/Catergory Theory}{7}{part.1}%
+\contentsline {chapter}{\numberline {1}范畴/Category}{11}{chapter.1}%
+\contentsline {section}{\numberline {1.1}\emph {Hask}}{13}{section.1.1}%
+\contentsline {section}{\numberline {1.2}\emph {Duel}}{13}{section.1.2}%
+\contentsline {chapter}{\numberline {2}函子 / Functor}{15}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Cat/猫}{17}{chapter.3}%
+\contentsline {chapter}{\numberline {4}自然变换 / Natural Transformations }{19}{chapter.4}%
+\contentsline {chapter}{\numberline {5}String Diagram}{21}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Adjunction Functor 伴随函子}{23}{chapter.6}%
+\contentsline {chapter}{\numberline {7}从伴随函子到 单子/Monad}{25}{chapter.7}%
+\contentsline {section}{\numberline {7.1}三角等式}{26}{section.7.1}%
+\contentsline {section}{\numberline {7.2}结合律}{28}{section.7.2}%
+\contentsline {chapter}{\numberline {8}Yoneda lemma / \sout {米田共} 米田引理}{31}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Rank N Type}{31}{section.8.1}%
+\contentsline {chapter}{\numberline {9}\emph {Kleisli Catergory}}{35}{chapter.9}%
+\contentsline {chapter}{\numberline {10}Summary}{37}{chapter.10}%
+\contentsline {part}{II\hspace {1em}食用猫呢/Practical Monads}{39}{part.2}%
+\contentsline {chapter}{\numberline {11}Functor 食用函子定义}{43}{chapter.11}%
+\contentsline {chapter}{\numberline {12}Applicative}{45}{chapter.12}%
+\contentsline {chapter}{\numberline {13}Monad}{47}{chapter.13}%
+\contentsline {chapter}{\numberline {14}Identity 本身就有}{49}{chapter.14}%
+\contentsline {chapter}{\numberline {15}Maybe 可能会有}{51}{chapter.15}%
+\contentsline {chapter}{\numberline {16}Either 要么有要么有}{55}{chapter.16}%
+\contentsline {section}{\numberline {16.1}Product \& Coproduct}{55}{section.16.1}%
+\contentsline {section}{\numberline {16.2}Either Monad}{56}{section.16.2}%
+\contentsline {chapter}{\numberline {17}Reader 差一点就有}{59}{chapter.17}%
+\contentsline {section}{\numberline {17.1}do notation}{61}{section.17.1}%
+\contentsline {chapter}{\numberline {18}Writer 光出进没有}{63}{chapter.18}%
+\contentsline {chapter}{\numberline {19}State 变化会有}{65}{chapter.19}%
+\contentsline {chapter}{\numberline {20}Validation 检查检查}{69}{chapter.20}%
+\contentsline {section}{\numberline {20.1}含幺半群/Monoid}{69}{section.20.1}%
+\contentsline {section}{\numberline {20.2}回到 Validation}{70}{section.20.2}%
+\contentsline {chapter}{\numberline {21}Cont 接下来有}{73}{chapter.21}%
+\contentsline {chapter}{\numberline {22}Summary}{75}{chapter.22}%
+\contentsline {part}{III\hspace {1em}搞基猫呢/Advanced Monads}{77}{part.3}%
+\contentsline {chapter}{\numberline {23}RWS}{81}{chapter.23}%
+\contentsline {chapter}{\numberline {24}Monad Transform}{83}{chapter.24}%
+\contentsline {section}{\numberline {24.1}ReaderT}{83}{section.24.1}%
+\contentsline {chapter}{\numberline {25}Alternative}{87}{chapter.25}%
+\contentsline {chapter}{\numberline {26}MonadPlus}{89}{chapter.26}%
+\contentsline {chapter}{\numberline {27}ST Monad}{91}{chapter.27}%
+\contentsline {chapter}{\numberline {28}Free Monad}{93}{chapter.28}%
+\contentsline {section}{\numberline {28.1}Free}{93}{section.28.1}%
+\contentsline {section}{\numberline {28.2}Coyoneda}{95}{section.28.2}%
+\contentsline {section}{\numberline {28.3}Free Functor}{96}{section.28.3}%
+\contentsline {section}{\numberline {28.4}Interpreter}{96}{section.28.4}%
+\contentsline {chapter}{\numberline {29}Free Monoid}{99}{chapter.29}%
+\contentsline {chapter}{\numberline {30}Eff}{101}{chapter.30}%
+\contentsline {chapter}{\numberline {31}Comonad}{103}{chapter.31}%
+\contentsfinish 
